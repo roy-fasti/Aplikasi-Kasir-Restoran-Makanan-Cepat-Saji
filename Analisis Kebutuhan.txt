@@ -62,7 +62,7 @@ E. Operation dan Maintenance
 	Tahapan metode waterfall yang terakhir adalah pengoperasian dan perbaikan dari aplikasi. Setelah dilakukan pengujian sistem, maka akan masuk pada tahap 
 	produksi dan pemakaian perangkat lunak oleh pengguna (user). Pemeliharaan ini termasuk dalam memperbaiki kesalahan 
 	yang belum terdeteksi di tahap sebelumnya.
-F. Support
+	
 	Recommend System requirement yang di butuhkan yaitu :
 	1. Opearating System -> Windows, Mac Os, Linux
 	2. Database -> MySQL 
