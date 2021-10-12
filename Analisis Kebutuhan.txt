@@ -8,9 +8,12 @@ A. Analisis Kebutuhan Perangkat Lunak
    --> Metode penelitian yang digunakan yaitu Metode Waterfall 
   *Teknik Pengumpulan Data
     a. Observasi
-    	 Metode ini merupakan cara pengumpulan data secara langsung dengan mengamati objek penelitian dari sejumlah individu dalam jangka waktu yang bersamaan. Pada waktu melakukan obsevarsi melakukan pengamatan terhadap orang-orang yang sedang melakukan suatu kegiatan didalam sistem operasional kasir serta ikut langsung pada sistem tersebut.
+    	 Metode ini merupakan cara pengumpulan data secara langsung dengan mengamati objek penelitian dari sejumlah individu dalam jangka waktu yang bersamaan. Pada
+	 waktu melakukan obsevarsi melakukan pengamatan terhadap orang-orang yang sedang melakukan suatu kegiatan didalam sistem operasional kasir serta ikut 
+	 langsung pada sistem tersebut.
        b. Wawancara
-	 Dengan menggunakan metode ini kita bisa mengetahui apa saja yang di butuhkan oleh client, kita menanyakan apa kebutuhan-kebutuhan yang ingin client dapatkan dalam software ini. Sehingga software akan lebih memudahkan client maupun pengguna.
+	 Dengan menggunakan metode ini kita bisa mengetahui apa saja yang di butuhkan oleh client, kita menanyakan apa kebutuhan-kebutuhan yang ingin client 
+	 dapatkan dalam software ini. Sehingga software akan lebih memudahkan client maupun pengguna.
 
   #. Kebutuhan Fungsional
    *Halaman Kasir :
@@ -32,7 +35,8 @@ B. System dan Software Design
 
 C. Implementation dan Unit Testing
 	Pada tahap ini, dilakukannya proses penterjemahan perancangan desain ke dalam
-bentuk yang dimengerti oleh mesin dan juga integrasi program dengan bahasa pemrograman yang telah dipilih. Kode program yang dibuat masih berupa modul kecil yang nantinya akan digabungkan.
+bentuk yang dimengerti oleh mesin dan juga integrasi program dengan bahasa pemrograman yang telah dipilih. Kode program yang dibuat masih berupa modul kecil yang 
+nantinya akan digabungkan.
 
   # Tahap Implementation
     --> Tahap ini kami menggunakan beberapa bahasa pemerograman yaitu, sebagai beriku :
@@ -48,11 +52,16 @@ bentuk yang dimengerti oleh mesin dan juga integrasi program dengan bahasa pemro
     --> Pada tahap unit testing kami menjalankan fungsional aplikasi satu per satu untuk mengecek apakah masih terjadi bug dan error
 
 D. Integration dan System Testing
-	Pada tahap ini akan dilakukan penggabungan modul yang sudah kami buat pada tahap sebelumnya. Kemudian setelah tahap integrasi ini selanjutnya kami masuk pada bagian testing system yang bertujuan untuk mengetahui apakah perangkat lunak sudah sesuai dengan desain, dan fungsionalitas dari aplikasi apakah berjalan dengan baik atau tidak. Pengujian perangkat lunak dengan melibatkan client atau pelanggan yang memesan perangkat lunak tersebut, dari sini dapat diketahui keinginan client terhadap perangkat lunak tersebut.Dengan adanya tahap pengujian, maka dapat mencegah terjadinya kesalahan, bug, atau error pada program sebelum masuk pada tahap produksi.
+	Pada tahap ini akan dilakukan penggabungan modul yang sudah kami buat pada tahap sebelumnya. Kemudian setelah tahap integrasi ini selanjutnya kami masuk
+	pada bagian testing system yang bertujuan untuk mengetahui apakah perangkat lunak sudah sesuai dengan desain, dan fungsionalitas dari aplikasi apakah berjalan
+	dengan baik atau tidak. Pengujian perangkat lunak dengan melibatkan client atau pelanggan yang memesan perangkat lunak tersebut, dari sini dapat diketahui
+	keinginan client terhadap perangkat lunak tersebut.Dengan adanya tahap pengujian, maka dapat mencegah terjadinya kesalahan, bug, atau error pada program
+	sebelum masuk pada tahap produksi.
 
 E. Operation dan Maintenance
-	Tahapan metode waterfall yang terakhir adalah pengoperasian dan perbaikan dari aplikasi. Setelah dilakukan pengujian sistem, maka akan masuk pada tahap produksi dan pemakaian perangkat lunak oleh pengguna (user). Pemeliharaan ini termasuk dalam memperbaiki kesalahan yang
-belum terdeteksi di tahap sebelumnya.
+	Tahapan metode waterfall yang terakhir adalah pengoperasian dan perbaikan dari aplikasi. Setelah dilakukan pengujian sistem, maka akan masuk pada tahap 
+	produksi dan pemakaian perangkat lunak oleh pengguna (user). Pemeliharaan ini termasuk dalam memperbaiki kesalahan 
+	yang belum terdeteksi di tahap sebelumnya.
 
 
 
