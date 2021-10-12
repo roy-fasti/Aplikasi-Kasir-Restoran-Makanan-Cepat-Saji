@@ -1,5 +1,7 @@
 A. Analisis Kebutuhan Perangkat Lunak
-	Program aplikasi ini dirancang untuk mempemudah mengolah data pesanan pelanggan. Kasir hanya perlu menginput nomor meja, nama pelanggan dan pesanan pelanggan lalu secara otomatis sistem akan memberika sebuah output berupa lembar pesanan(bill). Beriku ini spesifikasi kebutuhan (system requirement) dari sistem informasi pengolahan data pelanggan.
+	Program aplikasi ini dirancang untuk mempemudah mengolah data pesanan pelanggan. Kasir hanya perlu menginput nomor meja, nama pelanggan dan pesanan pelanggan
+	lalu secara otomatis sistem akan memberika sebuah output berupa lembar pesanan(bill). Beriku ini spesifikasi kebutuhan (system requirement) 
+	dari sistem informasi pengolahan data pelanggan.
 
  # BAHAN DAN METODE
   *Model Penelitian
