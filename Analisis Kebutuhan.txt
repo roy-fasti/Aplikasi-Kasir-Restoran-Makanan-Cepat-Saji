@@ -39,6 +39,9 @@ bentuk yang dimengerti oleh mesin dan juga integrasi program dengan bahasa pemro
     3. CSS
     4. Java Script
     
+    --> Data Base : 
+    1. My Sql
+    
   # Tahap Testing
     --> Pada tahap unit testing kami menjalankan fungsional aplikasi satu per satu untuk mengecek apakah masih terjadi bug dan error
 
