@@ -1,0 +1,78 @@
+A. Analisis Kebutuhan Perangkat Lunak
+	Program aplikasi ini dirancang untuk mempemudah mengolah data pesanan pelanggan. Kasir hanya perlu menginput nomor meja, nama pelanggan dan pesanan pelanggan
+	lalu secara otomatis sistem akan memberika sebuah output berupa lembar pesanan(bill). Beriku ini spesifikasi kebutuhan (system requirement) 
+	dari sistem informasi pengolahan data pelanggan.
+
+ # BAHAN DAN METODE
+  *Model Penelitian
+   --> Metode penelitian yang digunakan yaitu Metode Waterfall 
+  *Teknik Pengumpulan Data
+    a. Observasi
+    	 Metode ini merupakan cara pengumpulan data secara langsung dengan mengamati objek penelitian dari sejumlah individu dalam jangka waktu yang bersamaan. Pada
+	 waktu melakukan obsevarsi melakukan pengamatan terhadap orang-orang yang sedang melakukan suatu kegiatan didalam sistem operasional kasir serta ikut 
+	 langsung pada sistem tersebut.
+       b. Wawancara
+	 Dengan menggunakan metode ini kita bisa mengetahui apa saja yang di butuhkan oleh client, kita menanyakan apa kebutuhan-kebutuhan yang ingin client 
+	 dapatkan dalam software ini. Sehingga software akan lebih memudahkan client maupun pengguna.
+
+  #. Kebutuhan Fungsional
+   *Halaman Kasir :
+	1. Kasir dapat mengelola data pesanan pelanggan sesuai yang diinginkan pelanggan.
+	2. Kasir dapat mencetak output pesanan (bill)
+   *Halaman Admin:
+	1. Admin dapat mengelola data menu
+	2. Admin dapat mengelola data kategori menu
+	3. Admin dapat mengelola data kasir
+	4. Admin dapat melihat data laporan penjualan
+
+B. System dan Software Design
+	Pada tahap ini, kami menggunakan beberapa software yaitu, sebagai berikut :
+  # System Design
+    --> 1. Use Case --> Lucid ( https://lucid.app/lucidchart/dd0fa1c4-225e-4d51-a868-b73f5dd00fca/edit?beaconFlowId=1936ED635A31D9D7&invitationId=inv_1b6ad36e-25db-42f3-bae0-c03d6900f6b8&page=0_0# )
+        2. ERD --> Draw.io - diagrams.net ( https://app.diagrams.net/ )
+  # Aplikasi Design
+    --> 1. Adobe XD
+
+C. Implementation dan Unit Testing
+	Pada tahap ini, dilakukannya proses penterjemahan perancangan desain ke dalam
+bentuk yang dimengerti oleh mesin dan juga integrasi program dengan bahasa pemrograman yang telah dipilih. Kode program yang dibuat masih berupa modul kecil yang 
+nantinya akan digabungkan.
+
+  # Tahap Implementation
+    --> Tahap ini kami menggunakan beberapa bahasa pemerograman yaitu, sebagai beriku :
+    1. PHP
+    2. HTML
+    3. CSS
+    4. Java Script
+    
+    --> Data Base : 
+    1. My Sql
+    
+  # Tahap Testing
+    --> Pada tahap unit testing kami menjalankan fungsional aplikasi satu per satu untuk mengecek apakah masih terjadi bug dan error
+
+D. Integration dan System Testing
+	Pada tahap ini akan dilakukan penggabungan modul yang sudah kami buat pada tahap sebelumnya. Kemudian setelah tahap integrasi ini selanjutnya kami masuk
+	pada bagian testing system yang bertujuan untuk mengetahui apakah perangkat lunak sudah sesuai dengan desain, dan fungsionalitas dari aplikasi apakah berjalan
+	dengan baik atau tidak. Pengujian perangkat lunak dengan melibatkan client atau pelanggan yang memesan perangkat lunak tersebut, dari sini dapat diketahui
+	keinginan client terhadap perangkat lunak tersebut.Dengan adanya tahap pengujian, maka dapat mencegah terjadinya kesalahan, bug, atau error pada program
+	sebelum masuk pada tahap produksi.
+
+E. Operation dan Maintenance
+	Tahapan metode waterfall yang terakhir adalah pengoperasian dan perbaikan dari aplikasi. Setelah dilakukan pengujian sistem, maka akan masuk pada tahap 
+	produksi dan pemakaian perangkat lunak oleh pengguna (user). Pemeliharaan ini termasuk dalam memperbaiki kesalahan 
+	yang belum terdeteksi di tahap sebelumnya.
+	
+	Recommend System requirement yang di butuhkan yaitu :
+	1. Opearating System -> Windows, Mac Os, Linux
+	2. Database -> MySQL 
+	3. Software Bahasa Server side: PHP
+	4. Browser -> Chrome or Firefoxs 
+	5. Monitor -> 14 inch
+	6. Keyboard -> 108 Key 
+	7. Printer -> Laser Jet atau Inkjet 
+	8. Mouse -> Standard 
+	10. Bahasa Style Sheet -> CSS 
+	11. Bahasa Script -> Java Script 
+
+
