@@ -65,15 +65,14 @@ E. Operation dan Maintenance
 F. Support
 	Recommend System requirement yang di butuhkan yaitu :
 	1. Opearating System -> Windows, Mac Os, Linux
-	2. MySQL -> 4.1
-	3. PHP -> 7.2.0
-	4. Apache -> 1.3.2
-	5. Browser -> Chrome or Firefoxs 
-	6. Monitor -> 14 inch
-	8. Keyboard -> 108 Key 
-	9. Printer -> Laser Jet atau Inkjet 
-	10. Mouse -> Standard 
-	11. Bahasa Style Sheet -> CSS 
-	12. Bahasa Script -> Java Script 
+	2. Database -> MySQL 
+	3. Software Bahasa Server side: PHP
+	4. Browser -> Chrome or Firefoxs 
+	5. Monitor -> 14 inch
+	6. Keyboard -> 108 Key 
+	7. Printer -> Laser Jet atau Inkjet 
+	8. Mouse -> Standard 
+	10. Bahasa Style Sheet -> CSS 
+	11. Bahasa Script -> Java Script 
 
 
