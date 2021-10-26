@@ -1,16 +1,15 @@
-kelompok 6 ( Client ) 
+Client = Kelompok 6 
 
-kasir 
-
-1. tambah menu baru pada halaman checkout
-2. form pendaftaran
-3. metode pembayaran 
-4. form pencarian menu produk
-5. pengurangan dan penambahan produk pada checkout 
+Halaman Kasir 
+1. Tambah menu baru pada halaman checkout
+2. Formulir Pendaftaran bagi kasir baru
+3. Metode pembayaran 
+4. Form pencarian menu produk
+5. Pengurangan dan penambahan produk pada checkout 
 6. Detail peasanan pada menu 
 
-admin 
 
-1. form pencarian list menu
-2. keterangan pada list untuk ketersediaan menu
-3. tombol cancel
+Halaman Admin
+1. From pencarian daftar menu 
+2. Keterangan ketersediaan menu pada database
+3. Tombol cancel pada saat menambah dan mengedit data
