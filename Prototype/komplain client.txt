@@ -1,7 +1,7 @@
 Client = Kelompok 6 
 
 Halaman Kasir 
-1. Tambah menu baru pada halaman checkout
+1. Tombol tambah menu baru pada halaman checkout
 2. Formulir Pendaftaran bagi kasir baru
 3. Metode pembayaran 
 4. Form pencarian menu produk
