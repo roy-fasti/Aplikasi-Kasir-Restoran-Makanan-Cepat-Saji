@@ -1,0 +1,16 @@
+kelompok 6 ( Client ) 
+
+kasir 
+
+1. tambah menu baru pada halaman checkout = Done
+2. form pendaftaran = Done
+3. metode pembayaran = Done
+4. form pencarian menu produk = Done
+5. pengurangan dan penambahan produk pada checkout = Done 
+6. Detail peasanan pada menu = Done
+
+admin 
+
+1. form pencarian list menu = Done
+2. keterangan pada list untuk ketersediaan menu = Done
+3. tombol cancel = Done
